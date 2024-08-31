@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @GreekHammer093!
-- 👀 I’m interested in Cyber security!
-- 🌱 I’m currently learning coding with Python!
-- 💞️ I’m looking to collaborate on anything that can give me experience!
-
 # 👋 Hi, I’m @GreekHammer093!
 
 Welcome to my GitHub profile! I'm a car mechanic with a passion for technology and a strong drive to transition into the field of cybersecurity. I’m actively building my skills and knowledge, backed by several industry-recognized certifications.
