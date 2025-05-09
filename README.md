@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a car mechanic with a passion for technology a
 - **CompTIA A+**
 - **(ISC)² Certified in Cybersecurity (CC)**
 - **Google Cybersecurity Professional Certificate**
-- **Cisco Certificate in Ethical Hacking certificate**
+- **Cisco Certificate in Ethical Hacking**
 - **Other Certificates**: Various side certifications that contribute to a well-rounded skill set.
 
 ---
