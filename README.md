@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I'm a car mechanic with a passion for technology a
 
 ## 🌱 What I'm Learning
 
+- **Network and System Administration**: Building a solid foundation in networking, systems management, and IT infrastructure through my studies at Noroff
 - **Advanced Cybersecurity**: Diving deeper into network security, ethical hacking, and advanced threat detection techniques.
 - **Python Programming**: Developing scripts and tools for automation and security purposes.
 - **Cloud Security**: Exploring security practices for cloud environments, a crucial area in modern cybersecurity.
